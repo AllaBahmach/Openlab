@@ -1,0 +1,12 @@
+<DOCTYPE HTML>
+<html langu="sk">
+<head> 
+	<meta charset="UTF-8">
+	<meta http-equiv-"X-Ua-Compatible">
+	<meta name="viewport" content-"width=device-width, initial-scale=1.0">
+	<title>OpeanLab.sk</title>
+</head>
+<header>
+	<p>Ak mas zaujem studovat spolu s nami, sme tu pre teba...</P>
+	<title>Openlab</title>
+</head>
